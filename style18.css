@@ -1,0 +1,6 @@
+.page { font-family: Arial, sans-serif; max-width: 900px; margin: 30px auto; padding: 20px; }
+h1 { color: #1e90ff; }
+h2 { color: #34495e; }
+.box-model-demo { padding: 40px 10px; border: 10px dashed red; margin: 5px auto; width: 300px; max-width: 90%; background: #e6f0ff; text-align: center; }
+.home-link { display: inline-block; margin-bottom: 15px; }
+.back-note { margin-top: 30px; }

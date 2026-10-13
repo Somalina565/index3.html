@@ -1,0 +1,6 @@
+.page { font-family: Arial, sans-serif; max-width: 900px; margin: 30px auto; padding: 20px; }
+h1 { color: #9400d3; font-family: Georgia, serif; text-transform: uppercase; }
+h2 { color: #34495e; }
+.text-demo { font-family: Arial, sans-serif; font-size: 24px; font-weight: 700; line-height: 1.0; color: #333; text-align: justify; text-transform: lowercase; }
+.home-link { display: inline-block; margin-bottom: 15px; }
+.back-note { margin-top: 30px; }

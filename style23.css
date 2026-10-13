@@ -1,0 +1,6 @@
+.page { font-family: Arial, sans-serif; max-width: 900px; margin: 30px auto; padding: 20px; }
+h1 { color: #278a54; }
+.effect-box { width: 300px; max-width: 90%; height: 150px; margin: 40px auto; border-radius: 5px; box-shadow: 0 10px 0 #185a3a; background: linear-gradient(135deg, #3cb371, #176b45); color: white; text-align: center; line-height: 150px; font-weight: bold; font-size: 20px; transition: transform .2s; }
+.effect-box:hover { transform: translateY(-4px); }
+.home-link { display: inline-block; margin-bottom: 15px; }
+.back-note { margin-top: 30px; }

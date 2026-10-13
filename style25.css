@@ -1,0 +1,7 @@
+.page { font-family: Arial, sans-serif; max-width: 900px; margin: 30px auto; padding: 20px; }
+h1 { color: #b21c3b; }
+.box { width: 200px; min-height: 100px; padding: 5px; margin: 20px 0; text-align: center; display: flex; align-items: center; justify-content: center; color: #222; font-weight: bold; overflow-wrap: anywhere; }
+.content-box { box-sizing: content-box; border: 20px solid blue; background: #ffb6c1; }
+.border-box { box-sizing: border-box; border: 20px solid green; background: #d9f3df; }
+.home-link { display: inline-block; margin-bottom: 15px; }
+.back-note { margin-top: 30px; }

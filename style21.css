@@ -1,0 +1,6 @@
+.page { font-family: Arial, sans-serif; max-width: 900px; margin: 30px auto; padding: 20px; }
+h1 { color: #ff6347; }
+.flex-container { display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 15px; min-height: 360px; background: #ffe0e0; padding: 20px; border: 1px solid #ff6347; margin-top: 20px; }
+.flex-item { background: #ff6347; color: white; width: 130px; padding: 15px 0; text-align: center; border-radius: 6px; }
+.home-link { display: inline-block; margin-bottom: 15px; }
+.back-note { margin-top: 30px; }
